@@ -13,7 +13,7 @@ Text Recognition engines such as Tesseract require the bounding box around the t
 Download frozen east text detection from:
 https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb
 
-<b>Sample Result</b><br>
+<b>Sample Result</b>
 <br><center>
 <img src="https://github.com/tgalala/Simple-OCR/blob/master/images/sample.png?raw=true" width="300">
 </center>
