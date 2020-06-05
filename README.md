@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/froz
 
 <b>Sample Result</b><br>
 <br><center>
-<img src="https://github.com/tgalala/Simple-OCR/blob/master/images/sample.png?raw=true" height="200">
+<img src="https://github.com/tgalala/Simple-OCR/blob/master/images/sample.png?raw=true" width="200">
 </center>
 
 <b>Credit</b><br>
