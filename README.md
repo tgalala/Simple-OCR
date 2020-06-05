@@ -17,5 +17,16 @@ https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/froz
 <img src="https://github.com/tgalala/Simple-OCR/blob/master/images/sample.png?raw=true" width="300">
 </center>
 
+
+<b>Usage</b>
+Function can be run in command line example Anaconda Prompt or from Jupyter
+Example running script on command line:
+	1- move to the script's folder (..submission\ocr)
+	2- type :
+		python ocr.py --east frozen_east_text_detection.pb --image test/1.jpg
+		python ocr.py --east frozen_east_text_detection.pb --image test/4.jpg --padding 0.25
+	3- output is the input image with a red bounding box on the number labelled in text with that number. Also a report is printed in cmd with the number detected. 
+  
+  
 <b>Credit</b><br>
 www.pyimagesearch.com
