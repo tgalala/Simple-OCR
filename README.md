@@ -9,8 +9,13 @@ frozen_east_text_detection.pb : The EAST text detector. This CNN  is pre-trained
 <b>Text recognition: </b> pytesseract engine
 
 <b>Instruction</b><br>
-Download frozen east text detection from:
-https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb
+Download frozen east text detection from: <br>
+https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb <br>
+Extra step needed for the OCR which is to install tesseract on local macine beside the libaray above as following: <br>
+	# Download for windows https://github.com/UB-Mannheim/tesseract/wiki <br>
+	# After installing tesseract change the path in the ocr.py line below to the tesseract.exe path which is on your machine <br>
+	# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  (example: thats how its on my machine) <br>
+	
 
 <b>Sample Result</b>
 <br><center>
