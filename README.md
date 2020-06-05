@@ -4,10 +4,9 @@
 Python
 
 <b>Description</b><br>
-Text detection: OpenCV frozen east
-frozen_east_text_detection.pb : The EAST text detector. This CNN  is pre-trained for text detection and ready to go. It is provided with OpenCV. (Download below)
-Text recognition: pytesseract engine
-Text Recognition engines such as Tesseract require the bounding box around the text for better performance.
+<b>Text detection: </b>OpenCV frozen east
+frozen_east_text_detection.pb : The EAST text detector. This CNN  is pre-trained for text detection and ready to go. It is provided with OpenCV. (Download below) <br>
+<b>Text recognition: </b> pytesseract engine
 
 <b>Instruction</b><br>
 Download frozen east text detection from:
